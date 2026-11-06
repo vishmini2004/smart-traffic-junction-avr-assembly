@@ -1,4 +1,4 @@
-# Code guide: Smart Traffic Junction Controller
+# IE3064 Smart Traffic Junction Controller (Group X)
 
 Scaled four-way traffic junction controlled by an Arduino Uno (ATmega328P).
 All firmware is written **entirely in AVR Assembly** (GNU `avr-as` syntax). No C, C++ or Arduino library functions are used.
